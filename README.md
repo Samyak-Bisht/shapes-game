@@ -1,1 +1,1 @@
-# shapes-game
+# shape_generator
